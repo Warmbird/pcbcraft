@@ -349,8 +349,8 @@ file listed under [Dependencies](../../ATTRIBUTION.md#dependencies) must include
   native release binary for a full kernel round trip. The browser size is not
   measured; the kernel should load there only when a 3D view or STEP action
   needs it.
-- **Distance and assemblies.** Body distance, assembly export and a 3D view
-  are not implemented here. The substrate tessellation supplies geometry only.
+- **Distance and viewing.** Body distance and a 3D view are not implemented
+  here. The substrate tessellation supplies geometry only.
 
 ## Planar adapter for zone fill
 
